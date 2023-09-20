@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  FlappyBird.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: The file contains a character starting at offset 0x19d3 that is illegal in the current source character set (codepage 936).
+FlappyBird.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  FlappyBird.vcxproj -> C:\Users\967\Desktop\课程\FlappyBird\Debug\FlappyBird.exe

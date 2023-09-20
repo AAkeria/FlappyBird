@@ -1,0 +1,3 @@
+C:\Users\967\Desktop\FlappyBird\Debug\FlappyBird.exe
+C:\Users\967\Desktop\文档\FlappyBird\Debug\FlappyBird.exe
+C:\Users\967\Desktop\课程\FlappyBird\Debug\FlappyBird.exe
